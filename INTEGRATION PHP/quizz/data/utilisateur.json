@@ -1,0 +1,7 @@
+[
+    {"prenom":"admin","nom":"admin","login":"admin","password":"admin","profil":"admin","photo":"admin.jpg"},
+    {"prenom":"joueur","nom":"joueur","login":"joueur","password":"joueur","profil":"joueur","photo":"joueur.jpg","score":"100"},
+    {"login":"true","nom":"guiro","prenom":"bro","password":"ok","profil":"joueur","score":"70"},
+    {"login":"jul","nom":"jul","prenom":"jul","password":"lock","profil":"joueur","photo":"jul.jpg","score":"200"},
+    {"login":"aaa","nom":"king","prenom":"bro","password":"ccc","profil":"joueur","photo":"jul.jpg","score":"150"}
+]
